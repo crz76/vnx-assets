@@ -1,0 +1,13 @@
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#408CFF"/>
+      <stop offset="100%" stop-color="#6F3AFF"/>
+    </radialGradient>
+    <filter id="s" x="-50%" y="-50%" width="200%" height="200%">
+      <feDropShadow dx="1" dy="2" stdDeviation="1.4" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+  <circle cx="32" cy="32" r="30" fill="url(#g)" stroke="white" stroke-width="2"/>
+  <text x="32" y="40.5" text-anchor="middle" font-family="Arial, DejaVu Sans, sans-serif" font-size="22" font-weight="700" fill="#FFFFFF" filter="url(#s)">VNX</text>
+</svg>
