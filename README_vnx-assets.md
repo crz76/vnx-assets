@@ -28,7 +28,7 @@ Public assets for VNX (logos + tokenlist). Host here and use raw URLs in wallets
 
 ## Etherscan form
 - Official Website: use GitHub Pages for free (e.g. https://crz76.github.io/vnx-site/)
-- Email: public email displayed on the site (e.g. vnx.project@gmail.com)
+- Email: public email displayed on the site (e.g. vnxtokenproject@gmail.com)
 - Logo field: use the SVG 32 URL above.
 
 ## Notes
